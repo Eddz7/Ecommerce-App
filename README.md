@@ -1,17 +1,18 @@
 ## Home Page
-<img src="https://github.com/Eddz7/Ecommerce-App/assets/102757712/4314617d-bd7c-45f5-83c7-3bb635bb32b4" width="700">
+
+<img src="https://github.com/Eddz7/Ecommerce-App/assets/102757712/52842837-9a1e-42e0-a824-d60ba9aeb354" width="700">
 
 ## Search Products
-<img src="https://github.com/Eddz7/Ecommerce-App/assets/102757712/0102775a-98d8-491e-884a-fe0408ee4524" width="700">
+<img src="https://github.com/Eddz7/Ecommerce-App/assets/102757712/933b14c4-08bb-472a-9532-ab2ab26d25ae" width="700">
 
 ## Checkout Page
-<img src="https://github.com/Eddz7/Ecommerce-App/assets/102757712/d4b1ccfc-5dae-4317-be95-d0df127fe7fb" width="700">
+<img src="https://github.com/Eddz7/Ecommerce-App/assets/102757712/15bae6f8-8296-4581-a802-4d8c38aa91b5" width="700">
 
 ## Payment Page
-<img src="https://github.com/Eddz7/Ecommerce-App/assets/102757712/06c0b725-56a8-4769-af27-0832afe06b82" width="700">
+<img src="https://github.com/Eddz7/Ecommerce-App/assets/102757712/d6652996-9791-47b9-be95-e4baccf1dbec" width="700">
 
 ## Payment Success
-<img src="https://github.com/Eddz7/Ecommerce-App/assets/102757712/f3923597-8a70-432a-9eed-371932d65feb" width="700">
+<img src="https://github.com/Eddz7/Ecommerce-App/assets/102757712/9d5703fe-df34-4396-8494-02d5a6da41e0" width="700">
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
