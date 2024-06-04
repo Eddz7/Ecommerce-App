@@ -1,6 +1,5 @@
 ## Home Page
-
-<img src="https://github.com/Eddz7/Ecommerce-App/assets/102757712/52842837-9a1e-42e0-a824-d60ba9aeb354" width="700">
+<img src="https://github.com/Eddz7/Ecommerce-App/assets/102757712/eb8aa49c-4402-4830-8d8b-d60e20059a79" width="700">
 
 ## Search Products
 <img src="https://github.com/Eddz7/Ecommerce-App/assets/102757712/933b14c4-08bb-472a-9532-ab2ab26d25ae" width="700">
